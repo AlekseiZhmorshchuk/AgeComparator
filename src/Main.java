@@ -33,9 +33,11 @@ public class Main {
         } else
             max = mishaAge;
 
-        System.out.println(min);
+        System.out.println(min + " " + max);
         System.out.println(middle);
-        System.out.println(max);
+
+
+        System.out.println("Просто текст");
     }
 
 }
