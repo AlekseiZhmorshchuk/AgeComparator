@@ -1,6 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
+        System.out.println("Local");
+
         int vasyaAge = 29;
         int katyaAge = 14;
         int mishaAge = 36;
