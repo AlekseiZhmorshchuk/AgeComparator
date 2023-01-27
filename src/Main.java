@@ -37,7 +37,6 @@ public class Main {
         System.out.println(middle);
 
 
-        System.out.println("Просто текст");
     }
 
 }
